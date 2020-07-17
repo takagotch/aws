@@ -17,10 +17,13 @@ https://aws.amazon.com/jp/lambda/
 #### aws elasticbeanstalk
 https://aws.amazon.com/jp/elasticbeanstalk/
 
-### codeDEPLOY
+#### codeDEPLOY
 https://github.com/takagotch/CodeDeploy
 
-
+#### awsCLI 
+bash,zsh, tcsh
+windowscmd
+putty
 
 ```
 ```
