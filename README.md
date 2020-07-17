@@ -21,6 +21,7 @@ https://aws.amazon.com/jp/elasticbeanstalk/
 https://github.com/takagotch/CodeDeploy
 
 #### awsCLI 
+https://github.com/aws/aws-cli
 bash,zsh, tcsh
 windowscmd
 putty
