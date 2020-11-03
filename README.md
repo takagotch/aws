@@ -26,6 +26,17 @@ bash,zsh, tcsh
 windowscmd
 putty
 
+
+
+### Host app Demo
+###### Github Pqge
+###### Netlify 
+###### Zeit Now | Vercel
+###### Heroku
+###### AWS Amplify
+###### sakuraVPS
+
+
 ```
 ```
 
