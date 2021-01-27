@@ -26,6 +26,8 @@ bash,zsh, tcsh
 windowscmd
 putty
 
+###### amazon CloudFont, CloudFlare
+https://github.com/takagotch/Cloudflare/blob/master/README.md
 
 
 ### Host app Demo
